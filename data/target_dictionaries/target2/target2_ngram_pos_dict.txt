@@ -1,0 +1,90 @@
+@awyee707_NN
+@everydaysexism_NN
+alive_JJ
+anti_NNS
+body_NN
+call_VB
+cat_NNS
+change_VB
+complain_VB
+consider_VBN
+crap_NN
+daily_JJ
+day_NN
+eat_VB
+equal_JJ
+equal_JJ pay_NN
+equal_JJ pay_NN day_NN
+equal_JJ right_NNS
+equality_NN
+everyday_JJ
+everyday_JJ sexism_NN
+fact_NN
+feminism_NN
+feminist_JJ
+feminist_NN
+feminist_VBP
+feminists_NNS
+fuck_NN
+full_JJ
+gender_NN
+gender_NN roles_NNS
+girl_NN
+girls_NNS
+great_JJ
+hate_VBP
+hear_VB
+help_VBG
+home_NN
+job_NN
+life_NN
+lol_NN
+love_VBP
+make_VB
+makeup_NN
+malaysia_NN
+man_NN
+mean_VBZ
+men_NNS
+men_NNS women_NNS
+never_RB
+no_DT
+not_RB
+nothing_NN
+patriarchy_NN
+pay_NN
+pay_NN day_NN
+people_NNS
+power_NN
+pretty_RB
+propaganda_NN
+rap_VBN
+read_VBG
+real_JJ
+reason_NN
+reason_NNS
+right_NNS
+roles_NNS
+room_NN
+room_NN full_JJ
+rt_NN
+sex_NN
+sexism_NN
+social_JJ
+society_NN
+stop_VB
+street_NN
+stupid_JJ
+superior_JJ
+things_NNS
+time_NN
+tl_NN
+true_JJ
+twitter_NN
+ugly_RB
+understand_VB
+woman_NN
+women_NN
+women_NNS
+work_NN
+world_NN

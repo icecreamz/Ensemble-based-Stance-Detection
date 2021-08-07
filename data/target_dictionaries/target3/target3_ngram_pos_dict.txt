@@ -1,0 +1,119 @@
+2016_CD
+@barackobama_NNP
+@hillaryclinton_JJ
+@hillaryclinton_NN
+@hillaryclinton_NNP
+@nbcnews_NNS
+ambassador_NN
+america_NN
+american_JJ
+back_RB
+bad_JJ
+benghazi_NN
+bill_NN
+bill_NN clinton_NN
+bush_NN
+buy_VB
+campaign_NN
+care_NN
+champion_NN
+chris_NN
+clinton_NN
+clinton_NN 2016_CD
+clinton_NN foundation_NN
+conservatives_NNS
+conservatives_NNS twitter_NN
+country_NN
+day_NN
+el_NN
+email_NNS
+equality_NN
+female_JJ
+followers_NNS
+foreign_JJ
+foundation_NN
+future_NN
+great_JJ
+hillary_JJ
+hillary_JJ clinton_NN
+hillary_NN
+hillary_NN 2016_CD
+house_NN
+human_JJ
+human_JJ right_NNS
+im_NN
+im_NN not_RB
+im_NN not_RB vote_VBG
+justice_NN
+law_NN
+let_NNS
+liberal_JJ
+liberty_NN
+liberty_NN not_RB
+liberty_NN not_RB hillary_JJ
+lie_VBZ
+live_VB
+logo_NN
+lol_NN
+long_JJ
+luck_NN
+mainstream_JJ
+mainstream_JJ media_NNS
+make_VB
+man_NN
+media_NNS
+money_NN
+no_DT
+no_DT hillary_JJ
+not_RB
+not_RB hillary_JJ
+not_RB vote_VBG
+not_RB vote_VBG hillary_NN
+office_NN
+ohio_NN
+pander_NN
+party_NN
+people_NNS
+president_NN
+president_NN man_NN
+public_JJ
+ready_JJ
+ready_NN
+ready_NN hillary_JJ
+real_JJ
+remember_VBP
+republican_JJ
+respect_NN
+respect_NN law_NN
+right_NNS
+role_NN
+rt_NN
+rubio_NN
+run_VB
+run_VBG
+secretary_NN
+secretary_NN state_NN
+sexist_NN
+state_NN
+stop_NN
+stop_VB
+support_NN
+support_VBG
+team_NN
+time_NN
+top_JJ
+top_JJ conservatives_NNS
+top_JJ conservatives_NNS twitter_NN
+twitter_NN
+unite_JJ
+vote_NN
+vote_VBG
+vote_VBG hillary_NN
+war_NN
+warren_NN
+watergate_NN
+win_VB
+woman_NN
+woman_NN president_NN
+women_NNS
+world_NN

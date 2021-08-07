@@ -1,0 +1,128 @@
+@pvtfraser_NN
+amen_NNS
+amen_NNS rosary_JJ
+amen_NNS rosary_JJ team_NN
+atheist_JJ
+atheist_JJ day_NN
+atheist_NN
+baltimore_NN
+beautiful_JJ
+bible_JJ
+bless_VBD
+bless_VBN
+book_NN
+call_VB
+canada_NN
+christianity_NN
+church_NN
+claim_NNS
+connect_VBN
+create_VBD
+day_NN
+dear_JJ
+death_NN
+death_NN amen_NNS
+death_NN amen_NNS rosary_JJ
+earth_NN
+end_NN
+evidence-based_JJ
+evidence-based_JJ think_NN
+face_NN
+faith_NN
+fear_NN
+find_VB
+focus_NN
+foundation_NN
+free_JJ
+freedom_NN
+freethinker_NN
+freethinkers_NNS
+god_JJ
+god_NN
+god_NN pray_NN
+god_NN pray_NN sinners_NNS
+god_VB
+good_JJ
+heavens_NNS
+heavens_NNS earth_NN
+holy_JJ
+holy_JJ mary_JJ
+holy_JJ mary_JJ mother_NN
+holy_NN
+home_NN
+hope_NN
+hour_NN
+hour_NN death_NN
+hour_NN death_NN amen_NNS
+hypocrisy_NN
+islam_NN
+jesus_NN
+jesus_NN god_NN
+kind_NN
+kingdom_NN
+leave_VB
+life_NN
+lord_NN
+love_NN
+love_VB
+love_VBP
+make_VBP
+mary_JJ
+mary_JJ mother_NN
+mary_JJ mother_NN god_NN
+matter_NN
+mind_NN
+mother_NN
+mother_NN god_NN
+mother_NN god_NN pray_NN
+never_RB
+news_NN
+no_DT
+no_DT matter_NN
+not_RB
+nudge_NN
+pacquiao_NN
+part_NN
+peace_NN
+people_NNS
+plan_NN
+play_NN
+pray_NN
+pray_NN sinners_NNS
+pray_NN sinners_NNS hour_NN
+prophet_NN
+purpose_NN
+question_NN
+quran_NN
+quran_VBD
+religion_NN
+rosary_JJ
+rosary_JJ team_NN
+rosary_JJ team_NN jesus_NN
+rt_NN
+rush_NN
+sahaba_NN
+sahaba_NN sign_NN
+save_VB
+sign_NN
+sinners_NNS
+sinners_NNS hour_NN
+sinners_NNS hour_NN death_NN
+spirit_NN
+strength_NN
+superstition-based_JJ
+superstition-based_JJ think_NN
+team_NN
+team_NN jesus_NN
+team_NN jesus_NN god_NN
+thing_NN
+things_NNS
+think_NN
+time_NN
+time_NNS
+today_NN
+true_JJ
+truth_NN
+wealthy_JJ
+women_NNS
+world_NN

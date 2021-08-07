@@ -1,0 +1,357 @@
+# #
+# #tcot
+# 2016
+# advmod
+# amod
+# appos
+# appos forhillary
+# appos whyimnotvoting
+# case
+# compound
+# compound #
+# compound #tcot
+# compound hillaryclinton
+# flat
+# forhillary
+# hillaryclinton
+# nummod
+# nummod 2016
+# vocative
+# whyimnotvoting
+##mpotus compound
+@ goeswith
+@nacla flat
+@reformedbroker obl
+ambcathyrussell goeswith
+answer advmod
+answer nsubj
+appear obl
+away obl
+bag case
+be ccomp
+be nsubj
+be run
+benghazi #
+benghazi case
+benghazi compound
+benghazi compound #
+better be
+better cop
+better cop be
+better nsubj
+better obl
+bill flat
+billhemmer list
+bush conj
+buy mark
+buy mark to
+buy obj
+buy to
+campaign nmod:poss
+candidate amod
+care advmod
+care advmod not
+care aux
+care aux do
+care do
+care not
+come nsubj
+come obl
+country nmod:poss
+country nmod:poss we
+country we
+day compound
+dereliction nmod
+do aux
+do nsubj
+do obj
+donation compound
+estrogen conj
+everyone nmod
+fire advcl
+follower amod
+follower nmod
+follower twitter
+go advcl
+go advmod
+go aux
+go aux be
+go be
+go mark
+go mark to
+go nsubj
+go obl
+go to
+go xcomp
+government amod
+have @hillaryclinton
+have advcl
+have advmod
+have i
+have mark
+have nsubj
+have nsubj i
+have nsubj you
+have obj
+have xcomp
+have you
+hill #
+hill compound
+hill compound #
+hill discourse
+hill discourse no
+hill no
+hillary #
+hillary 's
+hillary advmod
+hillary be
+hillary case
+hillary case 's
+hillary clinton
+hillary compound
+hillary compound #
+hillary cop
+hillary cop be
+hillary flat
+hillary flat clinton
+hillaryclinton #
+hillaryclinton @
+hillaryclinton case
+hillaryclinton case @
+hillaryclinton compound
+hillaryclinton compound #
+hope ccomp
+image amod
+iraq case
+keep obj
+keep obl
+keep xcomp
+kick obl
+kid obj
+kid parataxis
+know advmod
+know ccomp
+know nsubj
+law case
+law det
+law det the
+law the
+leader compound
+let obj
+let xcomp
+liberty #
+liberty appos
+liberty appos nothillary
+liberty compound
+liberty compound #
+liberty nothillary
+lie cc
+live advmod
+live aux
+live aux can
+live can
+live nsubj
+live obl
+logo appos
+logo nmod:poss
+luck amod
+make aux
+make nsubj
+make obj
+make obl
+man 1st
+man amod
+man amod 1st
+man det
+man det the
+man the
+march nummod
+media amod
+media compound
+mind advmod
+msm #
+msm compound
+msm compound #
+need advmod
+need hillary
+need nsubj
+need nsubj hillary
+need xcomp
+nohillary #
+nohillary list
+office case
+office case for
+office for
+ohio #
+ohio appos
+ohio compound
+ohio compound #
+pander nsubj
+pander obl
+party advmod
+people amod
+perfect advmod
+president #
+president a
+president amod
+president be
+president case
+president case for
+president case of
+president compound
+president compound woman
+president cop
+president cop be
+president det
+president det a
+president flat
+president for
+president nmod
+president nmod:poss
+president of
+president woman
+rapist compound
+read obl
+ready be
+ready cop
+ready cop be
+ready nsubj
+ready obl
+replace obl
+respect law
+respect nmod
+respect nmod law
+rights amod
+rights amod human
+rights be
+rights cop
+rights cop be
+rights human
+rights nmod:poss
+rights nmod:poss woman
+rights nsubj
+rights nsubj rights
+rights rights
+rights woman
+rt appos
+rt nmod
+rub #
+rub compound
+rub compound #
+run aux
+run if
+run mark
+run mark if
+run nsubj
+run obj
+run obl
+scam conj
+secretary amod
+secretary case
+secretary nmod
+secretary nmod state
+secretary state
+see obj
+sexist a
+sexist case
+sexist det
+sexist det a
+smear amod
+smell case
+smh compound
+someone acl:relcl
+start xcomp
+state case
+state case of
+state of
+stop hillary
+stop mark
+stop mark to
+stop nsubj
+stop to
+stop xcomp
+stopdilma #
+stopdilma compound
+stopdilma compound #
+support aux
+support aux be
+support be
+support i
+support nmod
+support nsubj
+support nsubj i
+support obj
+take advmod
+take nsubj
+take obj
+take obl
+team compound
+testament obl
+texas compound
+think ccomp
+think i
+think nsubj
+think nsubj i
+think obj
+think parataxis
+time case
+time nmod
+tupac case
+use obj
+volunteering obl
+vote amod
+vote det
+vote det the
+vote nsubj
+vote obl
+vote the
+want advmod
+want advmod just
+want advmod not
+want aux
+want aux do
+want do
+want i
+want just
+want mark
+want not
+want nsubj
+want nsubj i
+want nsubj we
+want obj
+want obl
+want we
+want xcomp
+want you
+way acl
+way case
+way det
+way det the
+way the
+what acl:relcl
+what case
+what case of
+what of
+where be
+where cop
+where cop be
+where nsubj
+wife amod
+wife list
+wipe obj
+woman 's
+woman a
+woman amod
+woman and
+woman case
+woman case 's
+woman cc
+woman cc and
+woman det
+woman det a
+woman nmod
+world case
+world det
+world det the
+world the
+yell day

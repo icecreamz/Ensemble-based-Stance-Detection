@@ -1,0 +1,344 @@
+# appos
+# compound
+#antifeminism compound
+#beauty compound
+#bodypositive compound
+#cat #
+#feminist compound
+#poetry case
+#society compound
+#thethingsthatmatter case
+#viewpoint compound
+@skynew nmod
+allwomen nmod:poss
+allwomen nmod:poss ye
+allwomen ye
+aman compound
+as fixed
+be nsubj
+because fixed
+because fixed of
+because of
+believe aux
+believe i
+believe nsubj
+believe nsubj i
+believe obl
+bend advmod
+bigot amod
+build nsubj:pass
+call advmod
+call obj
+call you
+cat amod
+ceo amod
+change aux
+change aux must
+change must
+change nsubj
+change nsubj we
+change obj
+change we
+childcare conj
+complain advmod
+condemn obl
+do cc
+do nsubj
+eat obj
+equalpayday #
+equalpayday compound
+equalpayday compound #
+everydaysexism goeswith
+extinction parataxis
+extremerule #
+extremerule compound
+extremerule compound #
+extremerule list
+extremerule list #
+fact be
+fact det
+fail2discuss compound
+faith amod
+female det
+feminism case
+feminist #
+feminist a
+feminist advmod
+feminist advmod #
+feminist amod
+feminist be
+feminist conj
+feminist cop
+feminist cop be
+feminist det
+feminist det a
+feminist nsubj
+feminists #
+feminists compound
+feminists compound #
+fuck aux
+fuck aux go
+fuck go
+fuck i
+fuck nsubj
+fuck nsubj i
+fuck obj
+fuck xcomp
+full obl
+gender case
+get advmod
+get advmod pretty
+get cc
+get nsubj
+get obj
+get pretty
+get xcomp
+girl case
+girl conj
+girl det
+give advmod
+give obj
+go advmod
+go conj
+go nsubj
+guy case
+hate advmod
+hate nsubj
+hate obj
+hate you
+have advmod
+have aux
+have aux do
+have do
+have mark
+have nsubj
+have obj
+hear mark
+hear mark to
+hear to
+help advmod
+help obj
+hold advmod
+hold obj
+hope ccomp
+idiot amod
+important be
+important cop
+important cop be
+important nsubj
+innate conj
+interested obl
+know advmod
+know aux
+know aux do
+know ccomp
+know do
+know mark
+know nsubj
+know nsubj you
+know you
+labour conj
+let i
+let obj
+let obj i
+let xcomp
+lie obj
+life advmod
+life case
+life conj
+load det
+look mark
+look nsubj
+look obj
+look obl
+look woman
+love advmod
+love i
+love nsubj
+love obj
+love obl
+make aux
+make nsubj
+make nsubj woman
+make obj
+make obl
+make woman
+makeup case
+man a
+man acl
+man amod
+man case
+man case of
+man det
+man det a
+man of
+matter advmod
+mean advmod
+mean ccomp
+mean it
+mean nsubj
+mean nsubj it
+mean that
+minded advmod
+mj amod
+much advmod
+need feminism
+need i
+need mark
+need nsubj
+need nsubj i
+need nsubj you
+need obj
+need obj feminism
+need obl
+need you
+old obl:tmod
+old obl:tmod year
+old year
+one advmod
+one be
+one cop
+one cop be
+one det
+one mark
+one nsubj
+part advmod
+part obl
+pay obl
+people case
+people case of
+people nmod
+people of
+pic nmod
+play obl
+raise obj
+rally compound
+rape aux:pass
+read obj
+reason acl:relcl
+reason advmod
+reason amod
+reason case
+reason case of
+reason det
+reason det the
+reason of
+reason the
+rep nmod
+respect advmod
+respect nsubj
+rights amod
+rights amod equal
+rights equal
+rights nmod:poss
+role compound
+role compound gender
+role gender
+room a
+room amod
+room amod full
+room case
+room case in
+room det
+room det a
+room full
+room in
+say advmod
+say aux
+say be
+say ccomp
+say mark
+say nsubj
+say nsubj you
+say you
+sexism det
+sister nmod:poss
+sister nmod:poss you
+sister you
+sne nsubj
+sne obj
+society case
+spend advmod
+spend nsubj
+spend obj
+spend obj time
+spend time
+stay home
+stop mark
+stop mark to
+stop nsubj
+stop obj
+stop obl
+stop to
+superior obl
+support nsubj
+support obj
+support obl
+take compound:prt
+take nsubj
+take obj
+talk aux
+talk mark
+talk nsubj
+talk obl
+talk to
+tell advmod
+tell aux:pass
+tell aux:pass be
+tell be
+tell nsubj:pass
+think ccomp
+time amod
+time amod much
+time case
+time det
+time much
+time nmod
+try xcomp
+ugly advmod
+ugly be
+ugly cop
+ugly cop be
+ugly feminist
+ugly nsubj
+ugly nsubj feminist
+umrao flat
+understand advmod
+understand obj
+understanding advcl
+understanding discourse
+use mark
+use obj
+vaw compound
+vile nsubj
+want mark
+want nsubj
+want nsubj they
+want nsubj you
+want they
+want xcomp
+want you
+we case
+we case for
+we for
+woman 's
+woman a
+woman amod
+woman case
+woman case 's
+woman cc
+woman det
+woman det a
+woman nmod
+world det
+world det the
+world nmod:poss
+world the
+ye #
+ye 's
+ye case
+ye case 's
+ye compound
+ye compound #
+year nummod
+you case

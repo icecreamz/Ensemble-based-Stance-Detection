@@ -1,0 +1,412 @@
+# advmod
+# appos
+# appos god
+# be
+# case
+# compound
+# cop
+# cop be
+# det
+# flat
+# god
+# goeswith
+# nsubj
+# nummod
+#allah compound
+#christianity compound
+#meangreen compound
+#teamjesus #
+#teamjesus #rosary
+#teamjesus amod
+#teamjesus amod #rosary
+#teamjesus compound
+#teamjesus compound #
+#theology compound
+#world compound
+able be
+able cop
+able cop be
+able nsubj
+able xcomp
+all case
+allow advmod
+allow advmod not
+allow aux
+allow not
+allow obj
+allow xcomp
+another nummod
+another nummod one
+another one
+answer aux
+answer obl
+assure advmod
+baltimoriots compound
+base evidence
+base obl:npmod
+base obl:npmod evidence
+base superstition
+be advcl
+be advcl be
+be be
+be ccomp
+be expl
+be expl there
+be mark
+be nsubj
+be there
+become mark
+become mark to
+become obj
+become to
+believe mark
+believe nsubj
+believe obl
+best det
+best det the
+best the
+better obl
+bigfoot conj
+bless obj
+book det
+book det the
+book the
+bring advmod
+bring obj
+call advcl
+call aux
+call be
+call he
+call iobj
+call nsubj
+call obj
+call they
+call xcomp
+claim nmod
+connect obl
+create nsubj
+create nsubj we
+create parataxis
+create we
+crucify conj
+crucify conj live
+crucify live
+dancer #
+dancer compound
+dancer compound #
+day a
+day amod
+day atheist
+day case
+day case of
+day compound
+day compound atheist
+day det
+day det a
+day det the
+day nmod
+day of
+day the
+death case
+death case of
+death nmod:poss
+death nmod:poss we
+death of
+death we
+desire advmod
+do nsubj
+do obl
+earth and
+earth cc
+earth cc and
+earth det
+earth det the
+earth the
+face nsubj
+face obj
+faith case
+faith case of
+faith conj
+faith of
+find and
+find cc
+find cc and
+find obj
+freedom #
+freedom compound
+freedom compound #
+frustration case
+galatians #
+galatians list
+galatians list #
+get nsubj
+get obj
+get xcomp
+give advmod
+give god
+give have
+give i
+give iobj
+give iobj i
+give iobj we
+give nsubj
+give nsubj god
+give obj
+give parataxis
+give we
+go advmod
+go advmod not
+go aux
+go aux be
+go be
+go mark
+go mark to
+go not
+go nsubj
+go nsubj you
+go obj
+go obj what
+go to
+go what
+go xcomp
+go you
+god #
+god case
+god case of
+god compound
+god compound #
+god my
+god nmod:poss
+god nmod:poss my
+god of
+gwg #
+happine compound
+have nsubj
+have obj
+have xcomp
+heaven conj
+heaven conj earth
+heaven det
+heaven det the
+heaven earth
+heaven the
+hero compound
+hour and
+hour at
+hour case
+hour case at
+hour cc
+hour cc and
+hour death
+hour det
+hour det the
+hour nmod
+hour nmod death
+hour the
+hypocrisy compound
+i case
+ispeaklife #
+ispeaklife compound
+ispeaklife compound #
+it case
+josh #
+josh list
+josh list #
+kind det
+kind nmod
+know advmod
+know ccomp
+know i
+know mark
+know nsubj
+know nsubj i
+know obj
+leave aux
+leave nsubj
+leave obj
+let obj
+life #
+life case
+life case in
+life case of
+life compound
+life compound #
+life in
+life my
+life nmod:poss
+life nmod:poss my
+life of
+literature amod
+live cc
+live i
+live nsubj
+look aux
+look compound:prt
+look compound:prt up
+look conj
+look conj find
+look find
+look i
+look look
+look nsubj
+look nsubj i
+look obl
+look up
+look you
+lord case
+lord det
+lord det the
+lord the
+love #
+love advmod
+love cc
+love compound
+love compound #
+love i
+love mark
+love nmod:poss
+love nsubj
+love obj
+lovemyjesus #
+lovemyjesus list
+make i
+make nsubj
+make obj
+make obl
+make xcomp
+mary amod
+mary amod holy
+mary holy
+mary nummod
+matter advmod
+matter advmod no
+matter ccomp
+matter no
+mind nmod:poss
+mother god
+mother nmod
+mother nmod god
+nudge discourse
+nudge discourse wink
+nudge wink
+part det
+part nmod
+people amod
+people case
+people case of
+people nmod
+people of
+plan be
+plan nsubj
+play advmod
+play nsubj
+power conj
+pray advmod
+pray advmod now
+pray conj
+pray conj hour
+pray hour
+pray mother
+pray now
+pray nsubj
+pray nsubj mother
+pray obj
+pray obj sinner
+pray obl
+pray obl we
+pray sinner
+pray we
+prophet flat
+protect aux
+question det
+quran appos
+quran nummod
+reality det
+religion case
+religion det
+righteousness conj
+rule have
+run nsubj
+run nsubj you
+run obj
+run you
+sahaba det
+sahaba det the
+sahaba the
+save nsubj
+save obj
+say ccomp
+say nsubj
+see conj
+see nsubj
+see obj
+sense nmod
+separate obj
+shout obj
+sign a
+sign be
+sign cop
+sign cop be
+sign det
+sign det a
+sign nmod
+slap obl
+spirit be
+spirit conj
+spirit det
+spirit det the
+spirit lord
+spirit nmod
+spirit the
+stop advmod
+stop nsubj
+stop what
+surah flat
+thank lord
+thank obj
+thank parataxis
+that case
+they case
+thing appos
+thing det
+those acl:relcl
+thought amod
+thought amod base
+thought base
+time advmod
+time be
+time cop
+time cop be
+time det
+time det the
+time nmod
+time the
+timothy #
+timothy list
+timothy list #
+timothy nummod
+want nsubj
+want they
+want xcomp
+way a
+way acl
+way det
+way det a
+we case
+we case for
+we for
+what acl:relcl
+what be
+what cop
+what cop be
+what nsubj
+woman nmod:poss
+work advmod
+work compound
+world case
+world case in
+world det
+world det this
+world in
+world this
+you case
