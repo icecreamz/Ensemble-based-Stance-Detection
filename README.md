@@ -11,5 +11,5 @@ To train a model and get predictions from the model through CLI, run
 python esd.py [--input <input_data_path>] [--output <output_data_path>]
 ```
 
-* `--input` specifies path of input data
-* `--output` specifies path of predictions
+* `--input` specifies path of directory containing training and test data
+* `--output` specifies path of directory containing predictions
