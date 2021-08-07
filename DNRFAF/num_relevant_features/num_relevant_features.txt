@@ -1,0 +1,4 @@
+Target	Number of relevant features
+target1	140
+target2	370
+target3	110
