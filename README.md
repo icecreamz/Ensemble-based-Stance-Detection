@@ -1,6 +1,6 @@
 # Ensemble-based Stance Detection
 
-Model for stance detection based on feature selection techniques and ensembles of classifier.
+Model for stance detection based on feature selection techniques and ensembles of classifiers.
 
 
 ## Usage
