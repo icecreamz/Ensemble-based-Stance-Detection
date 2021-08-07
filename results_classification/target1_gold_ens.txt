@@ -1,0 +1,11 @@
+ID	Target	Tweet	Stance
+1	target1	He who exalts himself shall      be humbled; and he who humbles himself shall be exalted.Matt 23:12.    	AGAINST
+2	target1	RT @prayerbullets: I remove Nehushtan -previous moves of God that have become idols, from the high places -2 Kings 18:4	AGAINST
+3	target1	@Brainman365 @heidtjj @BenjaminLives I have sought the truth of my soul and found it strong enough to stand on its own merits.	AGAINST
+4	target1	#God is utterly powerless without Human intervention...	AGAINST
+5	target1	@David_Cameron   Miracles of #Multiculturalism   Miracles of shady 786  #Taqiya #Tawriya #Jaziya #Kafirs #Dhimmi #Jihad #Allah	AGAINST
+6	target1	This world needs a tight group hug. Tight enough to relieve them from all this anger and hate. #MakePeaceWithEachOther	AGAINST
+7	target1	Morality is not derived from religion, it precedes it. -Christopher 'The Hitch' Hitchens #freethinkers	AGAINST
+8	target1	A Godly husband  - knows you - trusts you - loves you - respects you - honors you - supports you - wants you - appreciates you #God	AGAINST
+9	target1	@SecularDutchess I'll be your huckleberry @DeanModified	AGAINST
+10	target1	#BIBLE = Big Irrelevant Book of Lies and Exaggerations ~ #Judaism #God #TeamJesus #Islam ~ #Truth & #Freedom =	AGAINST

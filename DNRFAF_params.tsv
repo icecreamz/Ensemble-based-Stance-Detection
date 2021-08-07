@@ -1,0 +1,4 @@
+Target	Epsilon	Bounds
+target1	1e-05	(-np.inf, np.inf)
+target2	1e-03	(0, [0.6, 0.6, 0.6, 0.6])
+target3	1e-06	(-np.inf, np.inf)

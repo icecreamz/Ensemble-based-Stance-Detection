@@ -1,0 +1,11 @@
+ID	Target	Tweet	Stance
+1	target2	Feminists can TOTALLY wear makeup and don't tell me otherwise. #choices	AGAINST
+2	target2	I searched for posts with feminist tag and saw how much hatred is against feminism. #misogyny #tumblr #hatred #sadness #tears	AGAINST
+3	target2	I saw a little girl wearing a mustache from the vending machine. #equality	AGAINST
+4	target2	Women are taught to put their values into their hymens, rather than their intelligence, accomplishments, goals or character	AGAINST
+5	target2	If u link anti feminism with misogyny or inequality-lover, please dont reproduce! The world have enough imbeciles .	AGAINST
+6	target2	Many feminist sexualise and objectify men and yet they insult men who does it calling them pervert	AGAINST
+7	target2	Let us thank the likes of @thunderf00t and @Sargon_of_Akkad for exposing the complete idiocy of modern feminism.	AGAINST
+8	target2	@kdeleon how many were young women? Were there any black young women?	AGAINST
+9	target2	Feel things will truly be equal in marriage when I see jock strap tossed to the 'single women' a weddings alongside the garter	AGAINST
+10	target2	A wOMAN?? Wanting to be EQUAL to a MAN???!?! What monstrosity is this?!??!!!?	AGAINST

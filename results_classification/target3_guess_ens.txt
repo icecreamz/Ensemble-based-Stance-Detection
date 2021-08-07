@@ -1,0 +1,11 @@
+ID	Target	Tweet	Stance
+1	target3	#mtp @meetthepress How is deleting emails -part of the government record -different from erasing parts of a tape? #nixon #p2	AGAINST
+2	target3	@JDSon78 @AndrewBroering AndrewWhyDoYouCareAboutWhatIThink? I DidNotRealizeThatIWasThisImportant. SirTweet AndrewIsAPaidTroll	AGAINST
+3	target3	The white male vote is solidly GOP. The black vote is solidly DEM.  That leaves white females and brown ppl. #FeelTheBern	FAVOR
+4	target3	@nyinvesting big banker buds need to ratchet up their Hillary cares about the little people propaganda 	AGAINST
+5	target3	@GOP Why should I believe you on this? The GOP leaders in congress won't fight Obama now!!! #tcot	AGAINST
+6	target3	@RushetteNY @TwitchyTeam Hillary to press: Curtsy while you're thinking what to say, it saves time #throughthelookingglass 	AGAINST
+7	target3	@GovtsTheProblem This is what I see: Make way 4 ur queen peasants! Don'ttouch or talk 2 her U filth! #NoHillary2016 #Benghazi 	AGAINST
+8	target3	@CNNSotu @jaketapper - Can we get back to the issues? That's what #Bernie2016 wants to talk about. Not about	FAVOR
+9	target3	@nytimes But throws a rope around reporters and free speech.  #HillaryInNH	AGAINST
+10	target3	#IfIhadAdollarFor wondering, was I that stupid when I was a #Democrats? #Obama #2A #NoAmnesty #WakeUpAmerica	NONE

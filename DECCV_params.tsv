@@ -1,0 +1,4 @@
+Target	Best feature types
+target1	['Dependency', 'Linguistic', 'Target name', 'Stance-indicative', 'Sentiment', 'Word2vec']
+target2	['Dependency', 'Linguistic', 'Stance-indicative', 'Sentiment']
+target3	['Target name', 'Sentiment', 'Word2vec']
