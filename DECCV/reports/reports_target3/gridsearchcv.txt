@@ -1,0 +1,6 @@
+Classifier	Parameters
+SVM	C=0.1 gamma=0.0001 kernel=linear
+kNN	n_neighbors=9
+AB	n_estimators=50
+DT	max_depth=10
+RF	n_estimators=150
